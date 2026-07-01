@@ -30,12 +30,16 @@ I enjoy building reliable systems that scale, automating repetitive engineering 
 ```yaml
 name: Mohan Raj Prakash
 role: DevOps & Observability Engineer
-focus:
+core_focus:
+  - Infrastructure & Workflow Automation
+  - Full Stack Development (Django + React/TypeScript)
+  - Desktop Application Development (Electron.js)
+  - System Design & Microservices Architecture
+skills:
   - Kubernetes Administration
   - AWS Cloud Infrastructure
   - Grafana, Prometheus & Loki
   - Docker & Containerization
-  - Infrastructure Automation
   - Python Development
   - CI/CD & DevOps Practices
   - System Monitoring & Observability
@@ -60,11 +64,16 @@ currently_learning:
 
 - ☸️ Designed and maintained Kubernetes environments
 - ☁️ Automated AWS infrastructure using Python
-- 🤖 Built Slack-based cloud automation tools
+- 🤖 Built Slack-based cloud automation tools and workflow bots to eliminate repetitive manual operations
 - 📊 Implemented monitoring using Grafana, Prometheus & Loki
-- 🖥️ Customized employee activity monitoring systems
+- 🖥️ Customized and extended employee activity monitoring systems (full stack: Django REST backend + React dashboards)
+- 🖱️ Built cross-platform **desktop applications** with Electron.js for system auditing and reporting
+- 🏗️ Applied **system design principles** to structure scalable, maintainable services
+- 🧩 Designed and integrated **microservice-style components** for monitoring and automation pipelines
 - 📝 Developed automation agents for content publishing
 - 🚀 Managed production deployments and troubleshooting
+
+**Key strengths in this role:** Automation-first mindset, end-to-end full stack ownership (backend, frontend, and desktop clients), and practical system design for distributed, service-oriented tooling.
 
 </td>
 </tr>
@@ -109,12 +118,29 @@ currently_learning:
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
 
+### 🖥️ Desktop Application Development
+<img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/IPC_Architecture-1E1E1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cross--Platform_Apps-4B4B4B?style=for-the-badge"/>
+
+### 🏗️ System Design & Architecture
+<img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=architecture&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Event--Driven_Design-4B0082?style=for-the-badge"/>
+
+### 🤖 Automation
+<img src="https://img.shields.io/badge/Workflow_Automation-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack_Bots-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+
 ### 🧰 Other Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge"/>
 
 </div>
@@ -142,73 +168,10 @@ currently_learning:
 
 ## 📜 Certifications
 
-<div align="center">
-<img src="https://img.shields.io/badge/Digital_Forensics_Essentials-EC--Council-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/Complete_Beginner_Path-TryHackMe-9146FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pre_Security_Path-TryHackMe-9146FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Intro_to_Cyber_Security-TryHackMe-9146FF?style=flat-square"/>
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=robinhaxks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=robinhaxks&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinhaxks&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=robinhaxks&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
-<!-- Snake contribution animation - requires the snake workflow set up in your repo -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/robinhaxks/robinhaxks/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<details>
-<summary>🐍 How to enable the snake animation above</summary>
-
-<br/>
-
-The snake animation is generated automatically via GitHub Actions. Add this workflow to a repo named exactly like your username (`robinhaxks/robinhaxks`) at `.github/workflows/snake.yml`:
-
-```yaml
-name: generate animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: robinhaxks
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once this workflow runs once, the snake SVG link above will render automatically.
-</details>
+- Digital Forensics Essentials — EC-Council
+- Complete Beginner Learning Path — TryHackMe
+- Pre Security Learning Path — TryHackMe
+- Introduction to Cyber Security Learning Path — TryHackMe
 
 ---
 
